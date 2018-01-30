@@ -219,7 +219,7 @@
       "title": "Testing",
       "subTitle": "provo",
       "image": "https://unsplash.it/700/400",
-      "text": "dasj;lfksjfl;aksdjflaskj",
+      "text": "WIll D",
       "id": 22
     }
   ],
@@ -301,6 +301,12 @@
       "name": "Leo",
       "img": "https://unsplash.it/300/?random",
       "desc": "I'm not real. I'm just a pseudonym of a guy that doesn't like waiting for fast food workers to figure out how to spell his name."
+    },
+    {
+      "name": "Will",
+      "img": "100",
+      "desc": "D",
+      "id": 13
     }
   ]
 }
